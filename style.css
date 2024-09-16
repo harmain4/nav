@@ -1,0 +1,9 @@
+h1{
+    background-color: aqua;
+    color: black;
+    width: 500px;
+    height: 100px;
+}
+@media only screen and (max with 699px) {
+    
+}
